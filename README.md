@@ -22,13 +22,11 @@
 <br>
 
 ## 📈 Information about my GitHub account
-<a href="#" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvitt&theme=radical&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
-</a>
-
-<a href="#" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusvitt&show_icons=true&theme=radical&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+<p align="center">
+  <a href="https://github.com/matheusvitt?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=matheusvitt&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%">
+  </a>
+</p>
 
 ## 📩 Contact / Portfolio
 
