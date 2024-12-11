@@ -1,8 +1,6 @@
 <h1 align="left">Hi, I'm Matheus Vitor</h1>
 - 👨🏻‍💻 Full Stack Developer | Studying Computer Engineering | Graduated in Tech. IT
 <br>
-- 👨🏻‍💻 Desenvolvedor Full Stack | Cursando Engenharia da Computação | Formado em Tec. de Informática 
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
@@ -23,7 +21,7 @@
 </div>
 <br>
 
-## 📈 Informações sobre minha conta GitHub
+## 📈 Information about my GitHub account
 <a href="#" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvitt&theme=radical&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
@@ -32,7 +30,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusvitt&show_icons=true&theme=radical&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-## 📩 Contato / Portifólio
+## 📩 Contact / Portfolio
 
 <p align="left">
   <a href="mailto:matheusvitorlopes123@gmail.com" target="_blank" title="Gmail">
