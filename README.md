@@ -10,7 +10,7 @@
 </picture>
 <br>
 
-## 🚀 Minhas Skills
+## 🚀 Skills
 
 <div style="display: inline_block">
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
@@ -23,7 +23,7 @@
 </div>
 <br>
 
-## ⭐ Informações sobre minha conta GitHub
+## 📈 Informações sobre minha conta GitHub
 <a href="#" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvitt&theme=radical&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
